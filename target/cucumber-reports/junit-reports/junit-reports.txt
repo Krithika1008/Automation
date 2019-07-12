@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="132.468492">
+<testcase classname="Google Search" name="Navigate to google and search something" time="132.468492">
+<system-out><![CDATA[Given Launch google.com.....................................................passed
+Then Enter the string "cucumber" in the search box..........................passed
+And Click search............................................................passed
+Then Verify the output......................................................passed
+And Click on wikipedia link and take a snap.................................passed
+Then Navigate to https://cucumber.io/.......................................passed
+And Click on the link Automate with Cucumber................................passed
+And Click on the donate button..............................................passed
+Then Click on Join Free link................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
